@@ -1,0 +1,8 @@
+
+rsquid:S00100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûãı¹ÿÿÿÿÿ8Á¹Û….
+[
+squid:S106""9Replace this use of System.out or System.err by a logger.(›¯É¸üÿÿÿÿ8ÌÂõ….
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÇŒÌ‚ıÿÿÿÿ8–‹é….
+Fsquid:S1125"(Remove the literal "true" boolean value.(œÙ8—ãİ….
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÇŒÌ‚ıÿÿÿÿ8ûˆè….

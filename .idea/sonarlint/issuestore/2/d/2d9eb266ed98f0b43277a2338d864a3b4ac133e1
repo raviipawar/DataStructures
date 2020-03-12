@@ -1,0 +1,21 @@
+
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùáäºşÿÿÿÿ8ã°¿”….
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(×¦ÉËùÿÿÿÿ8ùÏĞ”….
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ùáäºşÿÿÿÿ8ã°¿”….
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üà©Íÿÿÿÿÿ8£¥Å”….
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûöìïûÿÿÿÿ8ëÖÇ”….
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒ¬°øÿÿÿÿ8ŸãÑ”….
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¯¥øüÿÿÿÿ8ã°¿”….
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏàÍóúÿÿÿÿ8¬½Í”….
+wsquid:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(Êí‹Û8ŸğÒ”….
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Üà©Íÿÿÿÿÿ8£¥Å”….
+nsquid:S1149""PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Êí‹Û8ŸğÒ”….
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Éê—8ëÑÃ”….
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÏàÍóúÿÿÿÿ8¬½Í”….
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈöÖşÿÿÿÿ8®ÿ¼”….
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÈöÖşÿÿÿÿ8®ÿ¼”….

@@ -1,0 +1,7 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÉŽå‘ÿÿÿÿÿ8É‚¨è….
+™squid:S1319"vThe type of the "linkedList" object should be an interface such as "List" rather than the implementation "LinkedList".(¸’¶Œýÿÿÿÿ8 ú¨è….
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(çÄ÷áøÿÿÿÿ8Œ¢«è….
+”squid:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(¸’¶Œýÿÿÿÿ8 ú¨è….

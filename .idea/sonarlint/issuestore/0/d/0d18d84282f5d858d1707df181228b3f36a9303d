@@ -1,0 +1,26 @@
+
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Ï¥8ÀğØ—„.
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÏàÍóúÿÿÿÿ8–Ü—„.
+Xsquid:S1854"5Remove this useless assignment to local variable "y".(Éüä­øÿÿÿÿ8ú½Õ—„.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰É†şÿÿÿÿ8¨Ì—„.
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÈöÖşÿÿÿÿ8ë½Ë—„.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬ĞË‹ùÿÿÿÿ8—ÓÚ—„.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(÷ˆœ¨8—Üß—„.
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8®ü—„.
+Msquid:S1905"*Remove this unnecessary cast to "Integer".(Éüä­øÿÿÿÿ8ú½Õ—„.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰É†şÿÿÿÿ8Ø‰Ö—„.
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏàÍóúÿÿÿÿ8–Ü—„.
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùáäºşÿÿÿÿ8¿ÊÏ—„.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(»¦¯ì8—Üß—„.
+wsquid:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(Êí‹Û8úØğ—„.
+Isquid:S1481"&Remove this unused "y" local variable.(Éüä­øÿÿÿÿ8ú½Õ—„.
+nsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¡Ï¥8ÀğØ—„.
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈöÖşÿÿÿÿ8ë½Ë—„.
+nsquid:S1149#"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Êí‹Û8Å°ğ—„.
+Hsquid:S1905"*Remove this unnecessary cast to "Integer".(ò¦Ü˜8—ÓÚ—„.
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ùáäºşÿÿÿÿ8ÄÃÒ—„.
